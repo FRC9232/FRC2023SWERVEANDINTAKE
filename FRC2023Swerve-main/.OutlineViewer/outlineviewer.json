@@ -1,0 +1,20 @@
+{
+  "NetworkTables Settings": {
+    "mode": "Client (NT4)",
+    "serverTeam": "localhost"
+  },
+  "transitory": {
+    "Shuffleboard": {
+      ".metadata": {
+        "open": true
+      },
+      ".recording": {
+        "open": true
+      },
+      "open": true
+    },
+    "SmartDashboard": {
+      "open": true
+    }
+  }
+}
